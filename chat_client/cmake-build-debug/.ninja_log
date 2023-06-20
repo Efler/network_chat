@@ -1,0 +1,15 @@
+# ninja log v5
+2	416	7088359687019454	CMakeFiles/chat_client.dir/main.cpp.obj	d6373f148853ed52
+417	582	7088359688639415	chat_client.exe	6c42ce7b02e0901c
+1	1332	7089227981882771	CMakeFiles/chat_client.dir/client.cpp.obj	c0726aa95f5a4ea3
+1340	2640	7089227994771284	chat_client.exe	3d7decea865ff2bc
+5	1108	7089228459179964	CMakeFiles/chat_client.dir/client.cpp.obj	c0726aa95f5a4ea3
+1109	1934	7089228467158703	chat_client.exe	3d7decea865ff2bc
+6	1158	7089228577703660	CMakeFiles/chat_client.dir/client.cpp.obj	c0726aa95f5a4ea3
+1158	1984	7089228585798979	chat_client.exe	3d7decea865ff2bc
+6	2420	7089247903078615	CMakeFiles/chat_client.dir/client.cpp.obj	c0726aa95f5a4ea3
+2421	3447	7089247913143293	chat_client.exe	3d7decea865ff2bc
+5	941	7089251079256362	CMakeFiles/chat_client.dir/client.cpp.obj	c0726aa95f5a4ea3
+947	1575	7089251085435724	chat_client.exe	3d7decea865ff2bc
+3	1122	7089258378540850	CMakeFiles/chat_client.dir/client.cpp.obj	c0726aa95f5a4ea3
+1122	1814	7089258385319900	chat_client.exe	3d7decea865ff2bc

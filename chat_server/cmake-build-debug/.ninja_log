@@ -1,0 +1,15 @@
+# ninja log v5
+2	242	7089131816414633	build.ninja	4b0154e524424123
+3	378	7088803926471831	CMakeFiles/chat_server.dir/main.cpp.obj	5d4c5fb8a1646947
+483	906	7088807746238804	chat_server.exe	6ddf42374d8f9760
+2	483	7088807742089888	CMakeFiles/chat_server.dir/server.cpp.obj	864eef4a0aea4ea
+6	1257	7089243135620252	CMakeFiles/chat_server.dir/server.cpp.obj	864eef4a0aea4ea
+1257	1921	7089243142089245	chat_server.exe	6ddf42374d8f9760
+4	1019	7089250986132971	CMakeFiles/chat_server.dir/server.cpp.obj	864eef4a0aea4ea
+1019	1708	7089250992876797	chat_server.exe	6ddf42374d8f9760
+4	1433	7089258626902913	CMakeFiles/chat_server.dir/server.cpp.obj	864eef4a0aea4ea
+1433	2152	7089258633659130	chat_server.exe	6ddf42374d8f9760
+5	1453	7089266390868030	CMakeFiles/chat_server.dir/server.cpp.obj	864eef4a0aea4ea
+1459	2300	7089266399103747	chat_server.exe	6ddf42374d8f9760
+6	1794	7089270849402945	CMakeFiles/chat_server.dir/server.cpp.obj	864eef4a0aea4ea
+1795	2633	7089270857638482	chat_server.exe	6ddf42374d8f9760

@@ -1,0 +1,5 @@
+"D:\JetBrains\CLion 2022.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/JetBrains/CLion 2022.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\JetBrains\CLion 2022.2.3\CLionProjects\chat_client" -B "D:\JetBrains\CLion 2022.2.3\CLionProjects\chat_client\cmake-build-debug"
+-- Found SFML 2.5.1 in D:/JetBrains/CLion 2022.2.3/CLionProjects/libs/SFML/GCC 7.3.0 MinGW (SEH) - 64-bit/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/JetBrains/CLion 2022.2.3/CLionProjects/chat_client/cmake-build-debug

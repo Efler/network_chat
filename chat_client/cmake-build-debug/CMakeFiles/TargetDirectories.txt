@@ -1,0 +1,3 @@
+D:/JetBrains/CLion 2022.2.3/CLionProjects/chat_client/cmake-build-debug/CMakeFiles/chat_client.dir
+D:/JetBrains/CLion 2022.2.3/CLionProjects/chat_client/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/JetBrains/CLion 2022.2.3/CLionProjects/chat_client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
